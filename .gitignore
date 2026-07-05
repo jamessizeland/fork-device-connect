@@ -25,3 +25,8 @@ fuzz-hypothesis-results.xml
 .coverage
 .coverage.*
 coverage.xml
+
+
+# Added by cargo
+
+/target

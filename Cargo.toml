@@ -1,0 +1,10 @@
+[workspace]
+resolver = "3"
+members = ["packages/device-connect-edge-rs"]
+
+[workspace.package]
+edition = "2024"
+license = "Apache-2.0"
+repository = "https://github.com/arm/device-connect"
+homepage = "https://github.com/arm/device-connect"
+authors = ["Arm <opensource@arm.com>"]
